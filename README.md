@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center" style="display:flex; flex-direction:column; margin-top: 1rem;">
+  <img align="center" style="margin-bottom: 1rem;" src="https://github-readme-stats.vercel.app/api?username=adrianoluis&count_private=true&theme=nightowl&show_icons=true"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoluis&theme=nightowl&layout=compact&langs_count=8"> 
+</p>
 <!--
 **adrianoluis/adrianoluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
